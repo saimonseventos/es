@@ -1,0 +1,26 @@
+
+h4{
+    font-size: 19px;
+    background-color: gainsboro;
+}
+div{
+    background-color: rgba(220, 245, 230, 0.377);
+}
+h5{
+    background-color: rgb(220, 220, 220);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    background-color:rgb(220, 220, 220);
+}
+#title-principal{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:plum;
+    background-color: rgb(220, 245, 244);
+    
+}
+h3{
+    background-color: bisque;
+}
